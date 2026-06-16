@@ -27,8 +27,8 @@ I build scalable cloud architectures and intelligent AI-driven solutions, bridgi
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mjrsiddiqui&show_icons=true&theme=github_dark&count_private=true" alt="Junaid's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjrsiddiqui&layout=compact&theme=github_dark" alt="Top Langs" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junaidrehman04&show_icons=true&theme=github_dark&count_private=true" alt="Junaid's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidrehman04&layout=compact&theme=github_dark" alt="Top Langs" height="195" />
 </p>
 
 ---
