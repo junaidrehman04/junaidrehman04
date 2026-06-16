@@ -1,89 +1,36 @@
 # Hi there, I'm Muhammad Junaid Rehman Siddiqui 👋
 
+**Full-Stack Engineer & AI Architect | AWS & Intelligent Systems**
 
+I build scalable cloud architectures and intelligent AI-driven solutions, bridging the gap between robust web development and cutting-edge Artificial Intelligence.
 
-**Full-Stack Engineer & AI Architect | Building Custom AI Agents & Scalable Cloud Solutions**
-
-
-
-I am a passionate software engineer who bridges the gap between robust web applications and cutting-edge Artificial Intelligence. I specialize in architecting scalable cloud infrastructure on AWS and building intelligent, data-driven solutions using modern frameworks.
-
-
+---
 
 ### 🚀 About Me
 
-
-
-* 🔭 **Currently working on:** Architecting scalable cloud systems and developing custom AI agents.
-
-* 🌱 **Currently exploring:** Advanced LLM orchestration, RAG pipelines, and modern serverless architectures.
-
-* 💡 **What I do:** I design reliable backend systems, develop responsive frontend interfaces, and integrate intelligent AI features to solve complex business problems.
-
-* 💬 **Ask me about:** React, Node.js, Laravel, AI integrations, and AWS cloud architecture.
-
-* 📫 **How to reach me:** https://www.junaidrehman.me/
-
-* ⚡ **Fun fact:** I believe every complex problem can be solved with the right architecture and a good cup of tea/coffee!
-
-
+* 🔭 **Now Building:** Scalable cloud infrastructure and custom AI agents.
+* 🌱 **Exploring:** Advanced LLM orchestration, RAG pipelines, and serverless tech.
+* 💬 **Ask Me About:** React, Node.js, Laravel, AI Integrations, and AWS.
+* 🌐 **Website:** [junaidrehman.me](https://www.junaidrehman.me/)
 
 ---
 
+### 💻 Tech Stack
 
-
-### 💻 Tech Stack & Arsenal
-
-
-
-**Frontend Development:**
-
-* React.js / Next.js
-
-* JavaScript (ES6+) & TypeScript
-
-* Tailwind CSS / Modern UI Frameworks
-
-
-
-**Backend Development:**
-
-* Node.js & Express.js
-
-* Laravel (PHP)
-
-* RESTful APIs & Microservices
-
-
-
-**Artificial Intelligence & Data:**
-
-* Custom AI Agents & Chatbots
-
-* LLM Integration (OpenAI, Gemini, etc.)
-
-* Prompt Engineering & AI Architecture
-
-
-
-**Cloud & Infrastructure:**
-
-* Amazon Web Services (AWS)
-
-* Cloud Architecture & Scalable System Design
-
-* Database Management (SQL & NoSQL)
-
-
+* **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+* **Backend:** Node.js (Express), Laravel (PHP), RESTful APIs
+* **AI & Data:** Custom AI Agents, LLM Integration (OpenAI/Gemini), Prompt Engineering
+* **Cloud & DevOps:** AWS (Scalable System Design), SQL & NoSQL Databases
 
 ---
-
-
 
 ### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjrsiddiqui&show_icons=true&theme=github_dark&count_private=true" alt="Junaid's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjrsiddiqui&layout=compact&theme=github_dark" alt="Top Langs" height="195" />
+</p>
 
 ---
 
 *⭐️ "Building solutions that are not just functional, but intelligent and scalable."*
-
